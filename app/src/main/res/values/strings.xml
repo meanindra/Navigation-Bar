@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Navigation</string>
+    <string name="this_is_my_name">This is my name</string>
+    <string name="myemail_gmail_com">myemail@gmail.com</string>
+    <string name="logo">logo</string>
+    <string name="todo">TODO</string>
+    <string name="mylogo">mylogo</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
